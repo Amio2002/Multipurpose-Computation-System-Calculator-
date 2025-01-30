@@ -1,4 +1,4 @@
-# Multipurpose-Computation-System-Calculator-
+# Multipurpose-Computation-System
 
 The project involves a C programming-based Calculator that supports five modes: real numbers, complex numbers, matrices, series summation, and a quit option. Each mode has its menu for performing specific operations:
 
